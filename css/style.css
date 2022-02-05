@@ -44,4 +44,8 @@ main {
 
 main ul li {
     margin: 0 10px 10px 0;
+    padding: 2rem;
+}
+footer {
+    padding: 3rem;
 }
